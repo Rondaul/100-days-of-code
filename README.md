@@ -1,8 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
-# I have always wanted to do 100 Days of Code. But I always keep making excuses and ultimately procrastinate. If I dont start during this coronavirus pandemic, when I have got a lot of time, then I never will. So, I finally decided I will do this and finish whatever it takes. In this 100 days of code, I am going to learn topics where I feel I lack in android and also learn new technologies and subjects. The areas I am going to explore are android, flutter, DSA and more. 
+# I have always wanted to do 100 Days of Code. But I always keep making excuses and ultimately procrastinate. If I don't start during this coronavirus pandemic, when I have got a lot of time, then I never will. So, I finally decided I will do this and finish whatever it takes. In these 100 days of code, I am going to learn topics where I feel I lack in android and also learn new technologies and subjects. The areas I am going to explore are android, flutter, DSA and more. 
 
-# One of the most important thing, I am starting this is to instill dicipline in me and also get myself better in software engineering. So, I will be including demos and tutorials too as part of the challenge and at the same time, I will also work on real projects too. 
+# One of the most important things, I am starting this is to instill discipline in me and also get myself better in software engineering. So, I will be including demos and tutorials too as part of the challenge and at the same time, I will also work on real projects too. 
 
 # I am a full-time Android Developer.
 
