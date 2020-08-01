@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 01, 2020
+### Day 1: August 01, 2020
 
 **Today's Progress**: Worked on testing android app. Learned to create unit tests and unit test using fakes.
 
