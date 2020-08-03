@@ -19,7 +19,7 @@
 
 **Link(s) to work:** [android-testing-rondaul](https://github.com/Rondaul/android-testing-rondaul/commit/276da95a5a66efd9015c9e3542cd61d7aed7eb67)
 
-### Day 2: August 03, 2020
+### Day 3: August 03, 2020
 
 **Today's Progress**: Working on testing android app. 
 1. Learned dependency injection by creating custom service locator.
