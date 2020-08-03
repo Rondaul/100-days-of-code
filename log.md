@@ -18,3 +18,13 @@
 **Thoughts:** Learn an important part of testing android app. It was a great day. Got to learn a new topic.
 
 **Link(s) to work:** [android-testing-rondaul](https://github.com/Rondaul/android-testing-rondaul/commit/276da95a5a66efd9015c9e3542cd61d7aed7eb67)
+
+### Day 2: August 03, 2020
+
+**Today's Progress**: Working on testing android app. 
+1. Learned dependency injection by creating custom service locator.
+2. Learn to create UI test using espresso and mockito
+
+**Thoughts:** I really enjoyed todays topic. Espresso and Mockito are such great tools. Here I have used service locator. I have read somewhere that service locator is not a good approach. So, I will be trying other forms of DI next
+
+**Link(s) to work:** [android-testing-rondaul](https://github.com/Rondaul/android-testing-rondaul/commit/752d51fb2283f48206d4334069f7b8e6e2a647a87)
