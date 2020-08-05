@@ -28,3 +28,15 @@
 **Thoughts:** I really enjoyed todays topic. Espresso and Mockito are such great tools. Here I have used service locator. I have read somewhere that service locator is not a good approach. So, I will be trying other forms of DI next
 
 **Link(s) to work:** [android-testing-rondaul](https://github.com/Rondaul/android-testing-rondaul/commit/752d51fb2283f48206d4334069f7b8e6e2a647a87)
+
+### Day 4: August 05, 2020
+
+**Today's Progress**: Started dagger 2 tutorial app. 
+1. Learned about Dependency Injection
+2. Learned about basics of dagger2 concepts like inject, component, module, binds, bindsInstance and factory
+
+**Thoughts:** Started DI today. Learn important concepts of dagger2. Dagger2 is a good library for DI but i found two problems from my observation till now. 
+1. We can inject private fields.
+2. Dagger2 is too verbose. Too much setup code.
+
+**Link(s) to work:** [dagger-tutorial-codelab](https://github.com/Rondaul/dagger-tutorial-codelab/commit/c92c0f07b4056e981138a16a912f6f5d0f3d2990)
