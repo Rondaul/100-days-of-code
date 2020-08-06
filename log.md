@@ -40,3 +40,12 @@
 2. Dagger2 is too verbose. Too much setup code.
 
 **Link(s) to work:** [dagger-tutorial-codelab](https://github.com/Rondaul/dagger-tutorial-codelab/commit/c92c0f07b4056e981138a16a912f6f5d0f3d2990)
+
+### Day 5: August 06, 2020
+
+**Today's Progress**: Started dagger 2 tutorial app. 
+1. Learned and added scopes and subcomponents to the app
+
+**Thoughts:** little confusing to understand these concepts but I managed and learnt it. Lot of boilerplate code. Lot of code to make one registration flow work.
+
+**Link(s) to work:** [dagger-tutorial-codelab](https://github.com/Rondaul/dagger-tutorial-codelab/commit/b1df5d1c1892dd8a45213a68f6364b28b19ccea4)
