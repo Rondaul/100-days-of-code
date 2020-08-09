@@ -53,7 +53,7 @@
 ### Day 6: August 10, 2020
 
 **Today's Progress**: Started dagger 2 tutorial app. 
-1. Worked on scoping multiple activies in one component
+1. Worked on scoping multiple activities in one component
 2. testing dagger
 
 **Thoughts:** Still I find some things confusing but its getting clearer why things are as such. Components section are the one that I find particularly confusing. Hope things gets clearly as I keep practicing this topics more.
