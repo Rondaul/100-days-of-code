@@ -48,4 +48,14 @@
 
 **Thoughts:** little confusing to understand these concepts but I managed and learnt it. Lot of boilerplate code. Lot of code to make one registration flow work.
 
+**Link(s) to work:** [dagger-tutorial-codelab](https://github.com/Rondaul/dagger-tutorial-codelab)
+
+### Day 6: August 10, 2020
+
+**Today's Progress**: Started dagger 2 tutorial app. 
+1. Worked on scoping multiple activies in one component
+2. testing dagger
+
+**Thoughts:** Still I find some things confusing but its getting clearer why things are as such. Components section are the one that I find particularly confusing. Hope things gets clearly as I keep practicing this topics more.
+
 **Link(s) to work:** [dagger-tutorial-codelab](https://github.com/Rondaul/dagger-tutorial-codelab/commit/b1df5d1c1892dd8a45213a68f6364b28b19ccea4)
