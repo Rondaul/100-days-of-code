@@ -59,3 +59,13 @@
 **Thoughts:** Still I find some things confusing but its getting clearer why things are as such. Components section are the one that I find particularly confusing. Hope things gets clearly as I keep practicing this topics more.
 
 **Link(s) to work:** [dagger-tutorial-codelab](https://github.com/Rondaul/dagger-tutorial-codelab/commit/b1df5d1c1892dd8a45213a68f6364b28b19ccea4)
+
+### Day 7: August 11, 2020
+
+**Today's Progress**: Worked dagger 2 tutorial app. 
+1. Learn more on dagger 2
+2. added more test for other dagger supported classes
+
+**Thoughts:** Kept learning more on dagger 2 tutorial with testing included
+
+**Link(s) to work:** [dagger-tutorial-codelab](https://github.com/Rondaul/dagger-tutorial-codelab/commit/b1df5d1c1892dd8a45213a68f6364b28b19ccea4)
