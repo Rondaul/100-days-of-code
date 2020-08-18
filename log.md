@@ -69,3 +69,12 @@
 **Thoughts:** Kept learning more on dagger 2 tutorial with testing included
 
 **Link(s) to work:** [dagger-tutorial-codelab](https://github.com/Rondaul/dagger-tutorial-codelab/commit/b1df5d1c1892dd8a45213a68f6364b28b19ccea4)
+
+### Day 8: August 19, 2020
+
+**Today's Progress**: Started working o hilt DI android app. 
+1. Start working on Hilt DI
+
+**Thoughts:** I found hilt to be quite and improvement to dagger 2. It took the good parts and made things easier to setup the dependency graph. Still there are some things which is not great but it still is better than dagger 2 and hopefully other DI which I will explore soon.
+
+**Link(s) to work:** [android-hilt](https://github.com/Rondaul/android-hilt)
