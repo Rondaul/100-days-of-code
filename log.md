@@ -78,3 +78,12 @@
 **Thoughts:** I found hilt to be quite and improvement to dagger 2. It took the good parts and made things easier to setup the dependency graph. Still there are some things which is not great but it still is better than dagger 2 and hopefully other DI which I will explore soon.
 
 **Link(s) to work:** [android-hilt](https://github.com/Rondaul/android-hilt)
+
+### Day 9: September 02, 2020
+
+**Today's Progress**: Finished hilt DI android app. 
+1. Leaned qualifiers, testing using hilt and entryPoint annotation for getting hilt graph where hilt cannot be injected.
+
+**Thoughts:** Ya, Hilt is definitely quite easier to learn than dagger2. It will help lot of developers who shy away dagger 2 to adopt it.
+
+**Link(s) to work:** [android-hilt](https://github.com/Rondaul/android-hilt/commit/eeba683619ce5e1150759232a1fd9cf2aa387f18)
